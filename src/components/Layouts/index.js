@@ -218,7 +218,7 @@ const MainLayout = ({ children, isAdmin }) => {
                     },
                   )}
                   <span className={`brand ${isAdmin ? "" : "white1"}`}>
-                    HEART AND VIRTUE
+                    A2Z COMMUNITY CARE
                   </span>
                 </div>
                 {!!isLogin ? (
